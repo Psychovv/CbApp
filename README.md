@@ -1,0 +1,1 @@
+ O projeto permanece incompleto, com algumas funcionalidades ainda não implementadas, impactando a entrega final de soluções voltadas para o controle de orçamentos, prazos e processos de reparo automotivo.
